@@ -50,11 +50,8 @@ I enjoy the whole path from math to motion: kinematics on paper, firmware on a m
 
 ## 🏆 Competitions
 
-### 🤖 iRAP Robotics Team, KMUTNB
-**2026 · Programmer, ABU Robocon.** Built the vision system and ROS 2 nodes for the competition robot (Feb – Sep 2026).
-
 ### 🌏 MakeX World Championship
-Four consecutive years of participation, representing Thailand at the world finals.
+Three consecutive years of participation, representing Thailand at the world finals.
 
 | Year | Result | Venue |
 |:---:|---|:---:|
@@ -96,24 +93,6 @@ Participated in **SuperAI Season 5**.
 <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=xzilon&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="top languages"/>
 
 <img src="https://streak-stats.demolab.com/?user=xzilon&theme=graywhite&hide_border=false" alt="streak"/>
-
-</div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophies](https://github-profile-trophy.vercel.app/?username=xzilon&theme=flat&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
-### 🔝 Top Contributed Repos
-
-<div align="center">
-
-![contributor stats](https://github-contributor-stats.vercel.app/api?username=xzilon&limit=5&theme=graywhite&combine_all_yearly_contributions=true)
-
-</div>
 
 ---
 
